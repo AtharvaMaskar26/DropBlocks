@@ -12,7 +12,7 @@ DropBlocks is a secure way to store our files once the files are uploaded noone 
 ![upload](https://drive.google.com/uc?export=view&id=1auU2fvpEWyAXuTmR8z9s3F0GyOON-H2l)
 
 on clicking the choose file button a window will popup that wlll allow user to choose file from the system . User can enter description for the file if he wants. After clicking the upload button 
-a transaction would get initiated.
+a transactions would get initiated.
 
 The file will then be added to the IPFS . IPFS is a peer to peer network for storing and sharing data in distributed file system . Ipfs will generate a hash value which will be unique for a every file 
 This hash value is then stored onto the etherium blockchain . Once stored in the blockchain it cannot be changed thus ensuring security of the data 
